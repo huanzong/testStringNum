@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 public class testString {
     public static void main(String args[]) {
-        System.out.printf("输入一串字符串：");
+        System.out.printf("输入一串字符串111：");
         Scanner scan = new Scanner(System.in);
         String str = scan.nextLine();
 
